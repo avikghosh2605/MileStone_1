@@ -1,0 +1,12 @@
+body{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    padding: 10px 20px;
+    background-color: #808080;
+    color: #fff;
+}
